@@ -21,3 +21,5 @@ node_modules/*
 # information for Eclipse / Flash Builder.
 /.idea/.gitignore
 /.idea/inspectionProfiles
+/.idea
+/.hbuilderx
